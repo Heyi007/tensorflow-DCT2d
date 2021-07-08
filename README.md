@@ -7,7 +7,6 @@ There will be some loss of float numerical accuracy.
 
 ### Results ###
 
-|<span align="left"><img src="test001.png" alt="" /></span>|
-<span align="right"><img src="1.png" alt=""/></span>|
+|<span align="left"><img src="test001.png" alt="" /></span>|<span align="right"><img src="1.png" alt=""/></span>|
 |:----------:|:-------------:|
 |  **Input**  | **idct2d output** |
